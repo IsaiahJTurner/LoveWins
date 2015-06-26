@@ -65,7 +65,14 @@ label {
 input[type=file] {
   opacity: 0;
 }
-
+#opacity {
+  display: block;
+  max-width: 300px;
+  top: 50%;
+  margin-top: 118px;
+  left: 50%;
+  margin-left: -150px;
+}
 #canvas {
   max-width: 200px;
   position: absolute;
